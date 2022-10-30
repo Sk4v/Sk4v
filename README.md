@@ -1,9 +1,4 @@
-<div id="header" align="center">
-   <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-      <iframe src="https://giphy.com/embed/ZQBH5pvoyiZSE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>           </iframe>
-   </div>
-   <p><a href="https://giphy.com/gifs/ZQBH5pvoyiZSE">via GIPHY</a></p>
-</div>
+![](https://github.com/Sk4v/Sk4vMe/blob/main/giphy.gif)
 
 <h1 align="center">Hi I'm Sk4v and I'm a developer</h1>
 
