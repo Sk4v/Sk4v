@@ -1,2 +1,2 @@
 Languages and Tools:
-android flutter git java javascript kotlin linux python ruby tensorflow unity
+![alt text](https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa)
