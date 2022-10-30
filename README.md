@@ -19,11 +19,15 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="" target="_blank" rel="noreferrer">
+ <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
 
- <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="" target="_blank" rel="noreferrer">
+ <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/> </a>
 
+ <a href="" target="_blank" rel="noreferrer">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 </p>
