@@ -34,6 +34,8 @@
  <a href="https://spring.io/" target="_blank" rel="noreferrer">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="linux" width="40" height="40"/> </a>
 
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://1000marche.net/wp-content/uploads/2021/10/Django-Logo.png" alt="linux" width="40" height="40"/> </a>
 
 </p>
 
