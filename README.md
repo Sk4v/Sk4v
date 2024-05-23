@@ -1,4 +1,4 @@
-<h1>Hi I'm Sk4v and I'm a software developer</h1>
+<h1>Hi I'm Sk4v and I'm a Software Engineer</h1>
 
 ![](https://github.com/Sk4v/Sk4vMe/blob/main/giphy.gif)
 
